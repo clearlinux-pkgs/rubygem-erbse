@@ -4,7 +4,7 @@
 #
 Name     : rubygem-erbse
 Version  : 0.0.2
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/erbse-0.0.2.gem
 Source0  : https://rubygems.org/downloads/erbse-0.0.2.gem
 Summary  : No detailed summary available
@@ -60,61 +60,26 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/erbse-0.0.2.gem
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/add_expr-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/cdesc-Converter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/convert_input-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/init_converter%21-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/pattern-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/pattern_regexp-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/Converter/trim-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Basic/cdesc-Basic.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/cdesc-Converter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/convert-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/detect_spaces_at_bol-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/escape-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/generator-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/init_converter%21-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/postamble-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Converter/preamble-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/____add_stmt-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_expr_debug-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_expr_escaped-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_expr_literal-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_postamble-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_preamble-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_stmt-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/add_text-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/cdesc-RubyGenerator.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/escape_text-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/escaped_expr-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/flush_newline_if_pending-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/RubyGenerator/init_generator-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Template/call-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Template/cdesc-Template.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/Template/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/Erbse/cdesc-Erbse.ri
-/usr/lib64/ruby/gems/2.2.0/doc/erbse-0.0.2/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/CHANGES.md
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/MIT-LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/Makefile
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/bench.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/bench_context.yaml
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/templates/_footer.html
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/templates/_header.html
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/templates/bench_erb.rhtml
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/templates/bench_erubis.rhtml
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/benchmark/templates/bench_eruby.rhtml
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/erbse.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/lib/erbse.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/lib/erbse/converter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/lib/erbse/eruby.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/lib/erbse/template.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/lib/erbse/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/test/erbse_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/erbse-0.0.2/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/erbse-0.0.2.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/erbse-0.0.2.gem
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/CHANGES.md
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/MIT-LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/Makefile
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/bench.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/bench_context.yaml
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/templates/_footer.html
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/templates/_header.html
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/templates/bench_erb.rhtml
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/templates/bench_erubis.rhtml
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/benchmark/templates/bench_eruby.rhtml
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/erbse.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/lib/erbse.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/lib/erbse/converter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/lib/erbse/eruby.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/lib/erbse/template.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/lib/erbse/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/test/erbse_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/erbse-0.0.2/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/erbse-0.0.2.gemspec
